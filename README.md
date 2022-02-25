@@ -1,2 +1,2 @@
-### data-sains-dan-machine-learning_sanbercode-camp
+### Data Sains - Sanbercode Camp
 Tugas Data Science dan Machine Learning pada Sanbercode Camp
