@@ -1,3 +1,3 @@
 ### Tugas Analisi Opini Publik - [Sanbercode Camp](http://sanbercode.com/)
 
-- not complete
+- ON Progress
